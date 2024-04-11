@@ -1,5 +1,5 @@
 [ 
-  {"channel":"2MInternational.ma","url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8","timeshift":null,"http_referrer":null,"user_agent":null},
-  {"channel":"AlArabyTV.uk","url":"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8","timeshift":null,"http_referrer":null,"user_agent":null},
-  {"channel":"AlArabyTV2.uk","url":"https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8","timeshift":null,"http_referrer":null,"user_agent":null}
+  {"channel":"2MInternational.ma","url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"},
+  {"channel":"AlArabyTV.uk","url":"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"},
+  {"channel":"AlArabyTV2.uk","url":"https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"}
 ]
