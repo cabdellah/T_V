@@ -20,10 +20,15 @@
   {"channel":"AlarabiyaPortrait.ae","url":"https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8"},
   {"channel":"AlArabyTV2.uk","url":"https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"},
   {"channel":"AlArabyTV.uk","url":"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"},
-  {"channel":"AlEkhbariya.sa","url":"https://edge.taghtia.com/sa/4.m3u8"},
+  {"channel":"AlEkhbariya.sa","url":"https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8"},
+  {"channel":"AlGhadTV.eg","url":"https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8"},
+  {"channel":"AlHadath.ae","url":"https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"},
   {"channel":"AlEkhbariya.sa","url":"https://ythls.armelin.one/channel/UCV01ajGl6nt09h40iDoHDNg.m3u8"},
   {"channel":"AlGhadTV.eg","url":"https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8"},
   {"channel":"AlHadath.ae","url":"https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"}
+  {"channel":"AlIraqia.iq","url":"https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"},
+  {"channel":"AlIraqiaNews.iq","url":"https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"},
+  {"channel":"AlIraqiaSport.iq","url":"https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8"},
   
 
 
