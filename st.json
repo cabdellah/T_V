@@ -28,8 +28,18 @@
   {"channel":"AlHadath.ae","url":"https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"},
   {"channel":"AlIraqia.iq","url":"https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"},
   {"channel":"AlIraqiaNews.iq","url":"https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"},
-  {"channel":"AlIraqiaSport.iq","url":"https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8"}
-  
+  {"channel":"AlIraqiaSport.iq","url":"https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8"},
+  {"channel":"AlJazeera.qa","url":"http://ott-cdn.ucom.am/s23/index.m3u8"},
+  {"channel":"AlJazeera.qa","url":"http://ott-cdn.ucom.am/s69/index.m3u8"},
+  {"channel":"AlJazeera.qa","url":"https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"},
+  {"channel":"AlJazeera.qa","url":"https://live-hls-web-aja.getaj.net/AJA/index.m3u8"},
+  {"channel":"AlJazeera.qa","url":"https://ythls.armelin.one/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8"},
+  {"channel":"AlJazeeraDocumentary.qa","url":"https://live-hls-web-ajd.getaj.net/AJD/index.m3u8"},
+  {"channel":"AlJazeeraEnglish.qa","url":"https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"},
+  {"channel":"AlJazeeraEnglish.qa","url":"https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8"},
+  {"channel":"AlJazeeraEnglish.qa","url":"https://live-hls-web-aje.getaj.net/AJE/index.m3u8"},
+  {"channel":"AlJazeeraEnglish.qa","url":"https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8"},
+  {"channel":"AlJazeeraMubasher.qa","url":"https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"}
 
 
 
