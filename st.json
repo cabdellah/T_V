@@ -2,5 +2,35 @@
   {"channel":"2MInternational.ma","url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"},
   {"channel":"AlArabyTV.uk","url":"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"},
   {"channel":"AlArabyTV2.uk","url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/stream_05/Segment-4139093220809788.m4a"},
-  {"channel":"NationalGeographicAbuDhabi.ae","url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"}
+  {"channel":"NationalGeographicAbuDhabi.ae","url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"},
+  {"channel":"AbuDhabiEmirates.ae","url":"https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8"},
+  {"channel":"ABNAfghanistan.us","url":"https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8"},
+  {"channel":"AghapyTV.eg","url":"https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"},
+  {"channel":"AhlAlquranTV.sa","url":"https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8"},
+  {"channel":"AjmanTV.ae","url":"https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/index.m3u8"},
+  {"channel":"AlAanTV.ae","url":"https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8","timeshift":null,"http_referrer":null,"user_agent":null},
+  {"channel":"AlAlam.ir","url":"https://live2.alalam.ir/alalam.m3u8"},
+  {"channel":"AlAoulaEurope.ma","url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"},
+  {"channel":"AlAoulaLaayoune.ma","url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8"},
+  {"channel":"AlAqsaTV.ps","url":"https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8"},
+  {"channel":"Alarabiya.ae","url":"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"},
+  {"channel":"Alarabiya.ae","url":"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"},
+  {"channel":"Alarabiya.ae","url":"https://ythls.armelin.one/channel/UCahpxixMCwoANAftn6IxkTg.m3u8"},
+  {"channel":"AlArabiyaBusiness.ae","url":"https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8"},
+  {"channel":"AlArabiyaBusiness.ae","url":"https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"},
+  {"channel":"AlarabiyaPortrait.ae","url":"https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8"},
+  {"channel":"AlArabyTV2.uk","url":"https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"},
+  {"channel":"AlArabyTV.uk","url":"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"},
+  {"channel":"AlEkhbariya.sa","url":"https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8"},
+  {"channel":"AlEkhbariya.sa","url":"https://edge.taghtia.com/sa/4.m3u8"},
+  {"channel":"AlEkhbariya.sa","url":"https://ythls.armelin.one/channel/UCV01ajGl6nt09h40iDoHDNg.m3u8"},
+  {"channel":"AlGhadTV.eg","url":"https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8"},
+  {"channel":"AlHadath.ae","url":"https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"},
+  {"channel":"AlHadath.ae","url":"https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8"},
+  {"channel":"AlHadath.ae","url":"https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"},
+  {"channel":"AlHadath.ae","url":"https://ythls.armelin.one/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8"}
+
+
+
+
 ]
