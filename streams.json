@@ -3,7 +3,7 @@
 {"channel":"AlArabyTV.uk","url":"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"},
 {"channel":"AlArabyTV2.uk","url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/stream_05/Segment-4139093220809788.m4a"},
 {"channel":"NationalGeographicAbuDhabi.ae","url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"},
-{"channel":"AbuDhabiEmirates.ae","url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8"},
+{"channel":"AbuDhabiEmirates.ae","url":"https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8"},
 {"channel":"ABNAfghanistan.us","url":"https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8"},
 {"channel":"AghapyTV.eg","url":"https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"},
 {"channel":"AhlAlquranTV.sa","url":"https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8"},
