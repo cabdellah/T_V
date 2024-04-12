@@ -1,3 +1,178 @@
-[ 
-  {"id":"2MInternational.ma","name":"2M International","alt_names":["2M Monde"],"network":"2M","owners":[],"country":"MA","subdivision":null,"city":null,"broadcast_area":["r/ARAB"],"languages":["ara","fra"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://2m.ma/","logo":"https://i.imgur.com/MvpntzA.png"},
-  {"id":"AlAanTV.ae","name":"Al Aan TV","alt_names":[],"network":null,"owners":[],"country":"AE","subdivision":null,"city":null,"broadcast_area":["c/AE"],"languages":["ara"],"categories":[],"is_nsfw":false,"launched":"2006-01-01","closed":null,"replaced_by":null,"website":"https://www.alaan.tv/","logo":"https://i.imgur.com/Jl9Uw8N.png"}]
+[
+  {
+    "id": "002RadioTV.do",
+    "name": "002RadioTV",
+    "country": "DO",
+    "languages": ["spa"],
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/7oNe8xj.png"
+  },
+  {
+    "id": "01TV.fr",
+    "name": "01TV",
+    "country": "FR",
+    "languages": ["fra"],
+    "categories": [],
+    "logo": "https://i.imgur.com/RMucFq8.png"
+  },
+  {
+    "id": "1000xHoraTV.uy",
+    "name": "1000xHoraTV",
+    "country": "UY",
+    "languages": ["spa"],
+    "categories": ["auto"],
+    "logo": "https://i.imgur.com/wP3bbYr.png"
+  },
+  {
+    "id": "1001Noites.br",
+    "name": "1001Noites",
+    "country": "BR",
+    "languages": ["por"],
+    "categories": ["shop"],
+    "logo": "https://i.imgur.com/dWA9y2J.png"
+  },
+  {
+    "id": "100AutoMotoTV.bg",
+    "name": "100%AutoMotoTV",
+    "country": "BG",
+    "languages": ["bul", "eng"],
+    "categories": ["auto"],
+    "logo": "https://i.imgur.com/SZtJfOG.png"
+  },
+  {
+    "id": "100NEWS.ua",
+    "name": "100%NEWS",
+    "country": "UA",
+    "languages": ["rus"],
+    "categories": ["news", "business"],
+    "logo": "https://i.imgur.com/bSXKdK5.png"
+  },
+  {
+    "id": "100NLTV.nl",
+    "name": "100%NLTV",
+    "country": "NL",
+    "languages": ["nld"],
+    "categories": [],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/100p-nl-tv-logo.png/512px-100p-nl-tv-logo.png"
+  },
+  {
+    "id": "101tvAntequera.es",
+    "name": "101tvAntequera",
+    "country": "ES",
+    "languages": ["spa"],
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvAxarquia.es",
+    "name": "101tvAxarquia",
+    "country": "ES",
+    "languages": ["spa"],
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvCadiz.es",
+    "name": "101tvCadiz",
+    "country": "ES",
+    "languages": ["spa"],
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvMalaga.es",
+    "name": "101tvMalaga",
+    "country": "ES",
+    "languages": ["spa"],
+    "categories": ["news"],
+    "logo": "https://i.imgur.com/CXHLhZD.png"
+  },
+  {
+    "id": "101tvRonda.es",
+    "name": "101tvRonda",
+    "country": "ES",
+    "languages": ["spa"],
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvSevilla.es",
+    "name": "101tvSevilla",
+    "country": "ES",
+    "languages": ["spa"],
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "10Adelaide.au",
+    "name": "10Adelaide",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/acc7Gpp.png"
+  },
+  {
+    "id": "10BoldAdelaide.au",
+    "name": "10BoldAdelaide",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "id": "10BoldBrisbane.au",
+    "name": "10BoldBrisbane",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "id": "10BoldHobart.au",
+    "name": "10BoldHobart",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "id": "10BoldMelbourne.au",
+    "name": "10BoldMelbourne",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "id": "10BoldPerth.au",
+    "name": "10BoldPerth",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "id": "10BoldSydney.au",
+    "name": "10BoldSydney",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "id": "10Brisbane.au",
+    "name": "10Brisbane",
+    "country": "AU",
+    "languages": ["eng"],
+    "categories": [],
+    "logo": "https://i.imgur.com/acc7Gpp.png"
+  },
+  {
+    "id": "10Channel.gr",
+    "name": "10Channel",
+    "country": "GR",
+    "languages": ["ell"],
+    "categories": ["entertainment"],
+    "logo": "https://i.ibb.co/0XMM4gn/download-7.png"
+  }
+]
